@@ -13,10 +13,10 @@ Karakterimiz tuşlarıyla yönlendirilir.Hareket halindeyken animasyonu idle dur
 Karakterimiz yürürken shift tuşuna basılı tuttuğu zaman koşma durumuna geçer ve hızı artar aynı zamanda animasyonu koşma animasyonuna geçer.Skilli kullandığımız andan itibaren 4 saniye cooldown süresi bulunmaktadır.
 
 ## Skill(Taş fırlatma)
-Karakterimiz herhangi bir durumda iken Q tuşuna bastığı zaman ileriye doğru bir taş objeyi yaratır ve fırlatır. Bu aşamada attack animasyonunu oynatır.Skilli kullandığımız andan itibaren 3 saniye cooldown süresi bulunmaktadır.
+Karakterimiz herhangi bir durumda iken Q tuşuna bastığı zaman ileriye doğru bir taş objesi yaratır ve fırlatır. Bu aşamada attack animasyonunu oynatır.Skilli kullandığımız andan itibaren 3 saniye cooldown süresi bulunmaktadır.
 
 ## Anahtarı alma.
 Karakterimiz anahtar objesine dokunduğu zaman key objesini almış sayılır ve key objesi kaybolur.
 
 ## Kapıyı açma
-Karakterimiz önceden anahtar objesini aldığı zaman kapı objesine dokunurken E tuşuna bastığı zaman kapı açılır ve açılma animasyonunu uygular.
+Karakterimiz önceden anahtar objesini aldığı zaman kapı objesine dokunurken E tuşuna basarsa kapı açılır ve açılma animasyonunu uygular.Daha önce key objesini almamışsa kapı açılmaz.
