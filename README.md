@@ -2,7 +2,7 @@
 
 Bu proje BIL424 dersi ilk ödevi için yapılmıştır.
 
-Özellikler
+# Özellikler
 ## Zıplama
 Karakterimiz(Zombi) yere(ground ve taş objeleri) temas etmesi koşuluyla klavyeden boşluk tuşuna basıldığı zaman havaya zıplar. Havadayken bir kere daha boşluk tuşuna basılırsa bir defaya mahsus olarak zıplayabilir.
 
