@@ -1,4 +1,6 @@
 # hw1-BIL424
+Name:Çağatay Yusuf Ergüneş
+Number:201101050
 
 Bu proje BIL424 dersi ilk ödevi için yapılmıştır.
 
